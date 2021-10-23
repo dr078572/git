@@ -1,0 +1,14 @@
+Comandos para ser usado no git 
+
+ls (lista arquivos)
+mkdir (cria diretorio)
+touch (cria arquivos)
+clear (Limpa a tela)
+git init (Para criar pasta que seram usadas para projetos pode lista com o comando ls -a)
+git status (para ver as modificações na pasta)
+git add * (Para armazenar arquivos no git)
+git commit -m "" (Para indentificar as modificaçoes dos arquivos)
+git log (Para mostrar as modificações)
+git log --oneline (Para mostrar de forma resumida as modificações)
+
+
